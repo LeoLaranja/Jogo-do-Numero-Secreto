@@ -1,2 +1,2 @@
 # PROJETO-NUM-SECRETO-INPUT
-Projeto Jogo do Número Secreto (manipulação da DOM via JS)- feito através do curso de formação da Alura
+Projeto com Javascript (MANIPULAÇÃO DA DOM) feito com apoio do curso de Lógica de Programação da plataforma ALURA (escola online de tecnologia).
