@@ -1,4 +1,4 @@
-# PROJETO-NUMERO-SECRETO
+# PROJETO-NUMERO-Secreto
 
 Título: Jogo do Número Secreto
 
